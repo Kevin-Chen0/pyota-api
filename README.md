@@ -25,7 +25,7 @@ Data currently tested for string and pandas DataFrames. Next step is allow this 
 
 **Next possible steps:**
 
-1) Incorporate MAM Ultra Lite features. See [here](https://medium.com/coinmonks/iota-mam-ultra-lite-493d8d1fb71a).
+1) Incorporate MAM Ultra Lite features. See blog post [here](https://medium.com/coinmonks/iota-mam-ultra-lite-493d8d1fb71a).
 
 2) Enable IOTA token value transactions.
 
