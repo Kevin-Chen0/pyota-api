@@ -1,5 +1,5 @@
 # pyota-api
- Developing applications on top of IOTA Tangle made easy! Using Python (pyota).
+ Developing Python applications on top of IOTA Tangle made easy! Built on top of [PyOTA](https://github.com/iotaledger/iota.lib.py).
 
 **Four easy steps:**
 
