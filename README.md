@@ -17,7 +17,7 @@
 ```
    session.data_to_tangle(data='Hello Tangle!', tag='TEST')
 ```
-Data currently tested for string and pandas DataFrames. Next step is allow this method upload any Python data structure into the Tangle. 
+Data currently successfully tested for string (i.e. JSON) and pandas DataFrames (i.e. CSV file). Next step is allow this method upload any Python data structure into the Tangle. 
 
 
 4) Copy the transaction hash output from the console log and verify via thetangle.org. See the example [here](https://thetangle.org/transaction/IRAQLYTFQWMDJGBGNHPVMZGZAF9KPUR9TAUXRLMULKZTVPYOBUPGOVBSSQQBMJIPFF9DBYQKSX9ZZ9999).
