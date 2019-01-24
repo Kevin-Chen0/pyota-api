@@ -3,7 +3,7 @@
 
 **Four easy steps:**
 
-1) Clone the api package to your local directory...
+1) Clone the api package to your local directory.
 
 
 2) Initialize a Session object. Example:
